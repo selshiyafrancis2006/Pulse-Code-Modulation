@@ -86,3 +86,5 @@ plt.show()
 
 # Results
 
+Thus, PCM sequence and DM bitstream are created and successfully demodulated.
+
